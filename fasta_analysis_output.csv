@@ -1,0 +1,4 @@
+ID,Length,GC_Content,Is_Valid
+seq1,16,0.5,True
+seq2,10,0.4,True
+seq3,16,0.5,False
